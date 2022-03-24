@@ -11,7 +11,6 @@ public class Main {
 //        Car car = new Car("BMW", "X5-M",2021, false);
 //        car.printDetails();
 
-
 //        Employee employee = new Employee("Joe", 302, 32);
 //        employee.printDetails();
 //        System.out.println(employee.calculateSalary());
